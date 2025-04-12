@@ -8,4 +8,4 @@ cd /etc/openvpn/server
 # Launch executable with server config
 openvpn --config /etc/openvpn/server.conf
 
-echo -e "\e[45mOpenVPN starting\e[0m"
+echo -e "\e[45mOpenVPN starting...\e[0m"
